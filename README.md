@@ -51,4 +51,3 @@ Projenin bazı ekran görüntüleri:
 ---
 
 Herhangi bir sorunuz veya öneriniz varsa, lütfen benimle iletişime geçmekten çekinmeyin. Keyifli kodlamalar!
-```
