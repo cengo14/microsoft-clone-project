@@ -36,10 +36,6 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 Katkıda bulunmak isterseniz, lütfen bir `pull request` gönderin. Her türlü katkı için teşekkür ederiz!
 
-## Lisans
-
-Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz.
-
 ## Ekran Görüntüleri
 
 Projenin bazı ekran görüntüleri:
